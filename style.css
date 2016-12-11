@@ -16,8 +16,7 @@ body {
 
 h1, h2, h3 {
 	margin: 0;
-	/*text-transform: uppercase;*/
-    text-transform: none;/*Agregado por jose*/
+	text-transform: uppercase;
 	font-weight: normal;
 	color: #08252E;
 }
