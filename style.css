@@ -16,7 +16,7 @@ body {
 
 h1, h2, h3 {
 	margin: 0;
-	text-transform: uppercase;
+	text-transform: none;
 	font-weight: normal;
 	color: #08252E;
 }
@@ -110,6 +110,7 @@ hr { display: none; }
 	display: block;
 	float: left;
 }
+
 
 #menu a {
 	display: block;
@@ -211,7 +212,7 @@ hr { display: none; }
 #logo h1, #logo p {
 	margin: 0px;
 	line-height: normal;
-	text-transform: lowercase;
+	text-transform: none;
 	font-weight: normal;
 	color: #FFFFFF;
 }
@@ -463,3 +464,6 @@ hr { display: none; }
 
 #footer a {
 }
+
+
+
